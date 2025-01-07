@@ -5,7 +5,7 @@ public class HelloWorld {
         int a = 10;
         int b = 20; 
         int c = 10;
-        System.out.println(a*b*c);
+        System.out.println(a-b-c);
 
     }
 }
